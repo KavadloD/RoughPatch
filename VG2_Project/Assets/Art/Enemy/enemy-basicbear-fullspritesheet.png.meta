@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: c1f26a39792bbac4c9950c8b98a3275b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2727
+        width: 465
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5340634, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a3042fe002ec41ac559ad5d2fea51
+      internalID: -92696993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2726
+        width: 475
+        height: 750
+      alignment: 9
+      pivot: {x: 0.54446185, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95168a3cc352e5347aa54fb752cf76ef
+      internalID: 1127504127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2721
+        width: 439
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9b95cae23287468d588c9a5a938e5
+      internalID: -143787486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2733
+        width: 676
+        height: 777
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803921ab084ee048b911b3a9258f1dd
+      internalID: 1589385303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2726
+        width: 800
+        height: 850
+      alignment: 9
+      pivot: {x: 0.51319975, y: 0.425461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1c11abba442614baab38e7cdd81e43
+      internalID: 273385933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 2792
+        width: 779
+        height: 800
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.460401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74110198868bce4898eec95dced505c
+      internalID: 1080556812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1808
+        width: 452
+        height: 767
+      alignment: 9
+      pivot: {x: 0.46495685, y: 0.493116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425f4a0b9e15424b8010385a9f03311
+      internalID: 1983288023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1805
+        width: 469
+        height: 748
+      alignment: 9
+      pivot: {x: 0.45496932, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0629d3751b434f8c57e07106a5927
+      internalID: 456152965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1807
+        width: 436
+        height: 787
+      alignment: 9
+      pivot: {x: 0.48789012, y: 0.47987345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318323c9c169a70408164dad6771552e
+      internalID: -242941355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1822
+        width: 750
+        height: 761
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3156f052820b94444b1bd5189163acdc
+      internalID: 370984994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1822
+        width: 752
+        height: 763
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82564d5a7359144af565bed0d6022a
+      internalID: -1819246744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 1793
+        width: 752
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e0100e1b691f4ca19b4d1d3fed9c9
+      internalID: 1551207773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 873
+        width: 399
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740589085e42d7e43a48a1e9bc6dd85e
+      internalID: -446486326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 874
+        width: 399
+        height: 825
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d7685f5e5f5b4da604cbf46d82840
+      internalID: 446292280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 880
+        width: 400
+        height: 819
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f2334b3702f744b4b7d58de8a5995
+      internalID: -777882081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 871
+        width: 398
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e3c3c7c6fd15429aa76dfe950bee6
+      internalID: 1090984307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 875
+        width: 400
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8f1360de88a6458a819e703da1a84
+      internalID: 1628354500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 865
+        width: 398
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d19392d9eb8214496a6effbd2464aa
+      internalID: -1169948398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 880
+        width: 398
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a3ecaab8c9ed84f8926d1b6587c060
+      internalID: 975280623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 856
+        width: 400
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d161d879ab4c943a50a659aa7987bd
+      internalID: -1564126995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 41
+        width: 400
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a50fc30275c944ba9a1f89cb410202
+      internalID: 1051529443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 41
+        width: 400
+        height: 825
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c01e110197f39340aa80a1e6a1d3acd
+      internalID: -1720465386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 48
+        width: 400
+        height: 818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ddb3764156b1143936767cfa9b5060
+      internalID: -1881463892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 38
+        width: 400
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b5d0899b96b14aa6ac3d13424cbaa
+      internalID: 1793035599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 43
+        width: 399
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ddaa720c1326a4e91796062edde816
+      internalID: -680983702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 40
+        width: 398
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad05737192fd844594447b3aff6b326
+      internalID: 773534005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 39
+        width: 398
+        height: 807
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e73e794d359d0499eb8eb23ac9e423
+      internalID: -1193820619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 31
+        width: 400
+        height: 825
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c468eaa90df4a479aedbcf47ef310c
+      internalID: -1199029394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2934
+        width: 350
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e606050606d4c43adbf9dc39dbabcd
+      internalID: -1483670028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy-basicbear-fullspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4894
+        y: 2212
+        width: 120
+        height: 800
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8494bdc66a10964b955530a3d23c8a2
+      internalID: -2007949040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemy-basicbear-fullspritesheet_7: 1080556812
+      enemy-basicbear-fullspritesheet_20: 1628354500
+      enemy-basicbear-fullspritesheet_23: -1564126995
+      enemy-basicbear-fullspritesheet_11: 370984994
+      enemy-basicbear-fullspritesheet_8: 1983288023
+      enemy-basicbear-fullspritesheet_2: -143787486
+      enemy-basicbear-fullspritesheet_13: -1819246744
+      enemy-basicbear-fullspritesheet_21: -1169948398
+      enemy-basicbear-fullspritesheet_0: -92696993
+      enemy-basicbear-fullspritesheet_1: 1127504127
+      enemy-basicbear-fullspritesheet_3: 1589385303
+      enemy-basicbear-fullspritesheet_16: -446486326
+      enemy-basicbear-fullspritesheet_19: 1090984307
+      enemy-basicbear-fullspritesheet_25: -1720465386
+      enemy-basicbear-fullspritesheet_10: -242941355
+      enemy-basicbear-fullspritesheet_32: -470143718
+      enemy-basicbear-fullspritesheet_24: 1051529443
+      enemy-basicbear-fullspritesheet_27: 1793035599
+      enemy-basicbear-fullspritesheet_14: 1296314245
+      enemy-basicbear-fullspritesheet_26: -1881463892
+      enemy-basicbear-fullspritesheet_28: -680983702
+      enemy-basicbear-fullspritesheet_9: 456152965
+      enemy-basicbear-fullspritesheet_15: 1551207773
+      enemy-basicbear-fullspritesheet_6: 2125250055
+      enemy-basicbear-fullspritesheet_4: -2032113734
+      enemy-basicbear-fullspritesheet_5: 273385933
+      enemy-basicbear-fullspritesheet_22: 975280623
+      enemy-basicbear-fullspritesheet_29: 773534005
+      enemy-basicbear-fullspritesheet_33: -1987050537
+      enemy-basicbear-fullspritesheet_35: 759929748
+      enemy-basicbear-fullspritesheet_30: -1193820619
+      enemy-basicbear-fullspritesheet_39: -195541247
+      enemy-basicbear-fullspritesheet_34: -1483670028
+      enemy-basicbear-fullspritesheet_36: -529558964
+      enemy-basicbear-fullspritesheet_38: -2007949040
+      enemy-basicbear-fullspritesheet_12: 538891148
+      enemy-basicbear-fullspritesheet_17: 446292280
+      enemy-basicbear-fullspritesheet_37: 539260147
+      enemy-basicbear-fullspritesheet_18: -777882081
+      enemy-basicbear-fullspritesheet_31: -1199029394
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

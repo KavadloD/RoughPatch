@@ -1,0 +1,5779 @@
+fileFormatVersion: 2
+guid: e8e26d3c49adece44ab168da9e488c8b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: allminecraftblocks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d034494ff6da746bfb70c0c7b5a6e6
+      internalID: 2059178723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e7a74fbfe59b74fbfb4b84d8f2779f
+      internalID: 1564735239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e61490245905a4790e81db0fadd723
+      internalID: 837448232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f1ab7f0154bc4a85e37a4fd137259
+      internalID: 1398437538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee668899fef46734db10bd6cc0f583ee
+      internalID: -1945616972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67f3b01cac9b54ba2d5570430b7df3
+      internalID: -128920946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c349dfaf883b54d9ae2c8fa6dd2b89
+      internalID: -1165512021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d5cf95e9ee0a4aa21126638c2d520
+      internalID: -62170798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbb8c89e73cc5646a5d923bc6aea0eb
+      internalID: -549708331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47fd9a96e12a914da58acf2495c5a79
+      internalID: 245733324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc1e96ebf1b0ec4588117a2b1e61837
+      internalID: -1203558139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd0b36d91c2f048939dbc55ac54d54
+      internalID: 1733274772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610c822bb2b62743b5dc3a0699775de
+      internalID: 258103724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d830a92a42764e801712d7a00729e
+      internalID: -906771436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d1aeefbacf554baa4bc9f32d7600c
+      internalID: 964647950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 721
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ff098d880dc2468e5a53ccf01d9cd
+      internalID: 1754154807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f97ab0dd478a49bdbf5a24832322b
+      internalID: 1699727092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d26836993e9eb4890163cba1313552
+      internalID: 867885482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c43926b7edf5c14c9b036d7d02a2f81
+      internalID: 106632632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ec610b1155b4d41845f0676a50be5f
+      internalID: 334702924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0c4080bd35cdf4ca676d7106ebd008
+      internalID: -758841454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de761f3abdd37b4682f7dc496b4e662
+      internalID: -1857404603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e76c3fd8fe970f48b023ede65c7381b
+      internalID: -1179511572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960b3c4ec44fc645a23577d650efafe
+      internalID: 60083130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209ab5b49f6a7646ad6cec665a28f54
+      internalID: -1852294810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b77e120e976d4aab4e03b6ffb1cd3
+      internalID: -2023796777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf559d8e310434cbb1fcf11872b8ef
+      internalID: 1382368311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01243f4bcb692e045ae7b781808c6465
+      internalID: 1126472077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d449a87bcb4df054987387b73c6b7a8d
+      internalID: 657200699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51849c9e5597d6a40a3bc4fe2a83f035
+      internalID: -747917850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8d662441ef84144941673cae781f5e
+      internalID: 62298246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 673
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd8701ec97fb3e46983cab0b5649665
+      internalID: -1997417608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ff6d2f8675a74d9245d050ec0f93e
+      internalID: 204153352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a78d9b75ea5e40b2376621b4bead6
+      internalID: 824774478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c97fb9feec0b4b906421e12bb05e5
+      internalID: 1358780388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bdb06affeecd4da4a23bf0e9cbb3e
+      internalID: -164536833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a7800d2d28c648b1d6434639654a3
+      internalID: -1912745274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc134bd1bfc61f4e86715cba048b936
+      internalID: 1572295406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0438078a37873b468a05e11aa1e536e
+      internalID: 1778915425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1475dc58a02ffd947bcb11614c3c555b
+      internalID: 1350288120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf06ab2c21a0564c98add60dc046741
+      internalID: 2062755033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c77255c6d445af4596011360f564ac5
+      internalID: -614564225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598a88a76e90c54b96d50c1db170ec6
+      internalID: 2101083871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3103b7a9dc477489454301d2d23553
+      internalID: -605188887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942bb8e07f604db4c861ea09fee66332
+      internalID: -565472591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97925f4aa11ab4cbecf6ad39d3d6ce
+      internalID: 2096465697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_46
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017a2d0dc6e3224098e53fe83e92f11
+      internalID: -708370609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 625
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc228e9ade34a134ea24b61a699bc44f
+      internalID: -1426947694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2e6a58aa59d74bbc4b59b867590e6
+      internalID: 833681661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678b42dc13f589419c064043e13a296
+      internalID: 2101780796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c049d2f813814a91b4ac155401d74
+      internalID: -717481782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06895589015d9e940a2ac77f37805424
+      internalID: 1650832931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa40c3864bbd7c4fa09b2381d38d6e8
+      internalID: 980135632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b9c3e7fd8c00f44921d3f7c96f8bb2
+      internalID: -878389482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f8a063031b994199d534c93edcb91
+      internalID: -1026079407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfc0b595977d046838123ce4fc0179
+      internalID: 1906056152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22937a2fbebaaa144ab0a12d77db7ba2
+      internalID: -732935918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516618642238e1a468918856515caf8e
+      internalID: -371486648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584bb83f1754bf042a9fd9c1a47e1385
+      internalID: 1738974944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25a6edae3c3174f83dd493077faa03
+      internalID: 630784754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5182cf2407b14d99a534482d9b1eb
+      internalID: 1819577397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102ede84d5f97847ae2af6843ef7b02
+      internalID: -1330288428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586b90878eeb484b80e8fca12f9763d
+      internalID: 773333154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_63
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 577
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b4db30547c1d44b41493cd1e6a155
+      internalID: 2007003603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458681ff21408fe4487ed2074beb55eb
+      internalID: -525598554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed6d893078ab843873acab1e03dc91
+      internalID: 1409489118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b7bfd6f0cc5c547861f1024ca66b49
+      internalID: 1665709788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c391d332e7b8747b0256e8d245bc67
+      internalID: -454020583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9fab97a7991e84aa6cc5d3ba14e585
+      internalID: 357670317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54bf1777c75c74aa41ba9d377998ed
+      internalID: 1638042589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b96ede6b919d54fa0743ae1d67f6d2
+      internalID: 1907882469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46dc323cfcb905469e09c3d35c9b197
+      internalID: 559441650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15fea53f30fde746b4488f70dff1967
+      internalID: -1447795229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2703783a4cd1842a613edc1bb374b3
+      internalID: -1192437367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232bbde5cb20cf1418f87c7df3aa726f
+      internalID: 1710111372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3acf95021c55d4db89e97f8d2a330e
+      internalID: -739274464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f56f7fcea0564ea8747f87e59c718
+      internalID: -2061771035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e066d9b8d44e04a42a174abd4707af57
+      internalID: -985677811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a447fa3fcdf8c4288f836deabbd9f2
+      internalID: 1290996383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 529
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e217b1a8cb4a9c449fded4b99a4caaf
+      internalID: 578656528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b516ec50708fd4a99a542ba9adfb08
+      internalID: 1838959736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2fb007cb68614eb71d0fbbf60f495
+      internalID: 1948753633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10e35184db3c94b93ed01538a8cbda
+      internalID: -1506975494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5422b52ccc194b9d3f3b4840eb78d
+      internalID: 1833933438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae517928c289847808afa1eab6bf84
+      internalID: 1198527696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11774e442018aae4dae31edb0c617f3f
+      internalID: 1267832870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98014ba5bc3e3844b7079ed42ccf9f4
+      internalID: -1633461268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e01b55fae0afe42bf1dd94a1871a2f
+      internalID: -923593761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf56d2e37a2ee249b1a1a508a940500
+      internalID: 1338197397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_89
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196280bc98986aa42af6775718c2104e
+      internalID: 1039237679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a95f87ef915d4bb3c0e51f77bd543
+      internalID: -1538362631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ebf6b4b464d5f48846f2530b4f362e
+      internalID: -78916685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ae986252746ed48a1399771884c740
+      internalID: 1856547720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16de9d0baa76aaa4c815c7e556c6290a
+      internalID: -1452969778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b48495d2c6a9b242893c65ce108bc20
+      internalID: -1864068183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 481
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b797d6a8e8c861f40ad46d8956b761d7
+      internalID: 1155935324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9299b749d85ee42a71d50f59131ec0
+      internalID: -823658857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ccc80b1874ae344acd1c126226349c
+      internalID: 2045790666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88509073a9ab4c46a19ece9859d0de0
+      internalID: -71161001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c808dd2618ed40bc44a6db93c5c37
+      internalID: -526403771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def71c8e5d941f14284d92c0489bf086
+      internalID: -438164014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586165607bf7ef041b631faf68018102
+      internalID: -842953851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f80c907b887142b983625d0789bf0
+      internalID: -1620366073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e97aa2ed2e86c4f9070a2ec9587111
+      internalID: 1542256369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be623ee3a2acfb4aba4a2b38fbdb9c1
+      internalID: -1441215652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_105
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59642d3520657f240897b4a6f199434c
+      internalID: 785637652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ac215d25447cf4b9450b9bc63fcdc8
+      internalID: 288840916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_107
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0347c47a3ca3449e2a08994942072
+      internalID: 1665810049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff4126969ec5794e98709a898deb8b7
+      internalID: 1320717940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63007fb714fdf6d49a9b9ce08aac3ae5
+      internalID: 1443435194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_110
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2579fa945e5cfc246a3a22ccc06fe342
+      internalID: 1458072813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_111
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 433
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f42682f8f097b4b803eec875e5ffa3
+      internalID: 1634760988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52685b822bec40847b8755b7737aac9b
+      internalID: -1580999241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_113
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdd6aaec3722f84e9ae5bedb0142d7d
+      internalID: -894296512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e7e2fa71c66544bab9d4819d50246
+      internalID: -94684138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293fbfdcbe68d34b96a3c8b0db77e47
+      internalID: -1288329520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e92069117514e44daaa7f16c8dfcc59
+      internalID: 1120840892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3b4aee392ba2448cb9c997e795709
+      internalID: -1267779940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee17691a58ad6f449ced9cbc2140b9e
+      internalID: 680631966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6969104e5fab1cc4dbc15fba177fb698
+      internalID: 296632155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020c24020653844ea5eb58fb01c1f17
+      internalID: -831424425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61321e744e264ac4d91d8e7b43c3c246
+      internalID: -863693865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4053876fb06f74591d717faf34d35c
+      internalID: -1689975181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d24a26448e2734aa9fce893db07c40
+      internalID: -626902465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d776e5051a5cd9049868371a4d127341
+      internalID: -423132151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_125
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df6c51de5ced6f479c3a28daf247a01
+      internalID: 533110523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_126
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721c75564057884496ebdfb3f35e8e4
+      internalID: 1280941911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 385
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b7c4ad5d0f1748b80a3be9114e9bb
+      internalID: -702323789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eac2cdd7abac94c9c09c97dfd23b6f
+      internalID: -1755212424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f9cccc25075348acaa395332a4fb5
+      internalID: -1128341456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee91dc74e1802bb469311dffa27f4ff6
+      internalID: -632929844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671595cbc7ff2f43a07f0fc75a69cc6
+      internalID: 984746629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077c072ac2578f4f95438953d30ef5e
+      internalID: 599119484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548505497e5159468dce8c91759d1d2
+      internalID: 1513217663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd125f81859b14c8247b501ef6e62b
+      internalID: 1200760608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_135
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314de59bb5ce7f4eb808e26647f53f3
+      internalID: -1568265181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_136
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284444e4f9d55f14cb318c0419a358f8
+      internalID: -1047584952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a508f1e2d761204c9c066e3ae4e128b
+      internalID: -381065679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8fe6e239fdbb84093af8444d4272b1
+      internalID: -1986745073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d498cca3f19424799ad0c2d59c8fa4
+      internalID: 1921076466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_140
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ec854dba74284bb20372db0861ece
+      internalID: -410937285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5416a5193f1ec3458548f29463fa74f
+      internalID: -223664757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_142
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a17dc901b3664c819a71ae5c0031a
+      internalID: -2044466360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 337
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466089ddf9c6f524284ff26f28c9912f
+      internalID: -1539732309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccd8bcb4a40ab428d03550fe3136d7
+      internalID: 1962543542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e50ae1023183d3459292a7af045ed49
+      internalID: 1908818736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_146
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17693ccf2aee0d542a9bb21a5b218463
+      internalID: -684954296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a61b3325d41d42a5dce155d17964c
+      internalID: 1740356932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_148
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044fbc6be6e42614aa18c00c41bda6a8
+      internalID: 1917437144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e292a66d85ecb47b84187f74b0f02e
+      internalID: -60582946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_150
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24571ab9d08ce8d45a298907d9440100
+      internalID: 824558443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ba46877c4d494ba657811764fc373
+      internalID: 2118811693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0a45bacf7c1d4a912270fca964c80
+      internalID: -479606787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844df11371b56b4b860d3622e4b45f9
+      internalID: -1253239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_154
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83acdbadb9448e46b6ece585de5984a
+      internalID: 1828654740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88af67f464fe14fa0676d0506bd4fe
+      internalID: -1273893356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d080420966e9845993580cd1992122
+      internalID: 1175356952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_157
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a17db29146c441ada85b212fee7ea
+      internalID: -1515604947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094e067e9755e04ca2f6b3975138310
+      internalID: 1896907626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_159
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 289
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe6779e98faf44a93c84b49a426e68
+      internalID: 1655503886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446da90a34748554ea1fccea6936688f
+      internalID: -1495280457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233b4493aa9138f459f6d4c161de3134
+      internalID: 1533910567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_162
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af43dac99447532489e24e18f6f6bdeb
+      internalID: 242451348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9645b4edccdc44a7b2a38c622f2fc
+      internalID: 1653047504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afc3063d8e07cf4980342cfbabc3253
+      internalID: -918527456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978393732a730f34d9cba6fadf5442be
+      internalID: 1550492531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa8a889950c98468ca975b9d3dc4d6
+      internalID: -1668903223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_167
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68776b95ca18204eb44a4175e4d9d73
+      internalID: 1403017466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912bfc496224f6b4aa7772ffb448c92e
+      internalID: -1098465022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_169
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e03b11b9057ae4a8e668d7608e5f97
+      internalID: -1280381064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8acbf22254b9494e8ec27e445176e2d
+      internalID: 292928739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a229112b7d7140b17a64fac167df6
+      internalID: -929963414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ebc2426d7d69e4d8b268337c5eafd5
+      internalID: -1398951661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_173
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1d6fc871bdab4f9d084e256b255bb
+      internalID: -1149196957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_174
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460cfc5dc6c3af4cae08640e2974add
+      internalID: 1679309429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ca438636acd5944a4fec6618696298
+      internalID: 127475347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce01eed0ac9bdbc419ebd876edb8c702
+      internalID: -333273539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55edcda3398654141b09557225510d1c
+      internalID: -1419344323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50482aacfc70a7148ac036eb51214f71
+      internalID: -2107873901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_179
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362eeed367cb35e4abdba3992c3bf0bc
+      internalID: -627107815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7b4c965bf94f46b505c90812bfcab
+      internalID: 35473650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6661d47568044a8c02ecc6c5f6c61
+      internalID: -1394009234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8183eedaec9cd204b9fb9b552d748e15
+      internalID: 227290867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ab6b194c7d414384dc166c25e003f
+      internalID: 1948018805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff825b27b442643906a9911c4a682f
+      internalID: -674407981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_185
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1335ff312e39edc478e0fe6190698187
+      internalID: -1139205491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_186
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c1c63b61628e46ac71e87752536b0
+      internalID: 775481845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_187
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c901bfeb861f4aacd59b0373bacbc
+      internalID: -1901570519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef1e3108ebdd14eb643a751e78ced3
+      internalID: -2121461263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_189
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d78db65295e594f8937afee8dfb0d2
+      internalID: 165941079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_190
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e90ffd99a08e7547bf6ab68c487eaea
+      internalID: -31722666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_191
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 193
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1a2b09448b1014f9457f7c908a100f
+      internalID: -281721062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90d949c3b4b010468bb14ef8cb3bafa
+      internalID: 1592903847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e73230ab1f60429192527d9f58e56
+      internalID: -1150364121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158551dd50b19144fa06c0320db70275
+      internalID: -1059263621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38d0630a309954ead84fa64bfbc39d
+      internalID: -573648072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28e62bf38766b458a1f2daf8eb0592
+      internalID: -1130023109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303206863c246b4449ed02fcfa4c42cc
+      internalID: -1408534481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_198
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53d60cea0e34e24eb02b138c1d07860
+      internalID: 8100579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_199
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4a2b10444fbf45b2ff37eab2e27c7
+      internalID: -923400432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c264da4e9d336545b099f45fade1bad
+      internalID: -134681601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd672fb8af916d64e822c895f6251fd9
+      internalID: 139560624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_202
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d1aaf8f866d04d964399fe2feb95f
+      internalID: -246984047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_203
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08585f7a881ce3a42945f0529c9325c4
+      internalID: -473284485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810364123c7464240bd66f56d951ebf1
+      internalID: 1306010206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_205
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216eb01696547bc4980e8bcd4fc42ce3
+      internalID: 717136930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_206
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851822a0ed12be458cb462ef9db3066
+      internalID: 1122597612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_207
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 145
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453f5b8fcc1e7844b9e471d0e4e3dc59
+      internalID: -377030631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a2f0a962708d49916efa29aebcfb4
+      internalID: -1846604286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b922a7eb3b2309468d80c23fa1834f7
+      internalID: -2040716433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a2dd2381e53c446acb8efade410399
+      internalID: -1576342872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d64f58d7fa90bc4183befef28d665fc
+      internalID: -120209525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793b0cf0564c64d40aa55260d36d088e
+      internalID: 1924930147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c809216945939b44a809eaf74a057c6
+      internalID: 762018398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_214
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffde25ce889837489bfc88caa81547b
+      internalID: 703702831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10902219605be624f8c3217e7eaafae7
+      internalID: 1078145255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_216
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee30ea7bcf6af546b2fa72c08397e13
+      internalID: -311218983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_217
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd900338a47f2a448b25b6d4f6e7d7ad
+      internalID: 1294104118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e337db0a7288469e981c082a52e3f
+      internalID: 302766681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_219
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde21f90a9aa9d14aace31e0f4c77d14
+      internalID: -1703246944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_220
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a0ee5d56b0e346a10081436a1218c
+      internalID: -872343823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_221
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4b4c7c289d7c49befd400b15acf71
+      internalID: -1395016946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_222
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8a4d31feede344ac062a4acdf2e69
+      internalID: 1955405727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_223
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 97
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674243e81f85a46418a4ef8048a21dfd
+      internalID: 83923294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31be9bee8b46964c8348514f6f4d6a2
+      internalID: 593322386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed1e4f72f9820347a04e1e83bdd8f88
+      internalID: -1454896659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b36981d6c07894b97ed298b3a9c052
+      internalID: 1992467913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_227
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13648753b25b14a448026ff95b374e3e
+      internalID: 2027795751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427a24c4f355d647881e513a243893d
+      internalID: 1970465022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_229
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aae57cf6bdf654ea37f3c7d727b415
+      internalID: 857266926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_230
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e93046bb957808408017cc54817b08b
+      internalID: 452990456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_231
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e747925f808a5643b6fdb60a089bb03
+      internalID: -1299448102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdfd7f5fbd339a41b22c2b8bb869db7
+      internalID: -1453428203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_233
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a6a09d8a47ac342be79103a4248115
+      internalID: 763684408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a8915c62822c4eafba7814454593d
+      internalID: 1477463649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630975a76afef0c49881d51238fe2f25
+      internalID: -63227650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_236
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224427f8411fc1a489f953a704584b0e
+      internalID: -28400458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_237
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecb4c4d919989e40a3edfcdcfef3810
+      internalID: -1488251218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8737eb109df51a4aa67ad3eb1b60bbf
+      internalID: 1758127358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_239
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9cfb9560abb64ea4b8ad2b9642134
+      internalID: -1181063718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df0a902a641f0e4b90c3140d423907e
+      internalID: 830295445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a58c163b999541a62004aa0ea7464
+      internalID: 120685518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_242
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb716981783eb247a1aded2ac654886
+      internalID: -189489253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a2a1a5eedd4a948b26d871f5bef2e8
+      internalID: 1198421261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_244
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf0924b76ba1a4d9c01e83f0b97c64
+      internalID: 311807437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc45985b897e14e4f9128210a827fec9
+      internalID: 827962800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a106ec9293a17cf48810468a2827e4ce
+      internalID: 1980147513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_247
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3037ef58e31b8742a7b7a497eed3f55
+      internalID: -1328757801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250bcd0abf71d7b4781aedc5d369d8a2
+      internalID: 1885852143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_249
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd1a57ad1fddd4090ccf9990b5448d
+      internalID: 1379986318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_250
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496e2e429ad93a46b333c033f05b413
+      internalID: -670604738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73cb654d10a54542ae29a0ac75a786a
+      internalID: 179335364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47aa60209fbfa445b9055ad5fe6e506
+      internalID: 800454758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_253
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d584481efbe1f4885dda273e0199e3
+      internalID: -1770185974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b480dc7b374e240a21a66907f8eb8b
+      internalID: -1055481555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: allminecraftblocks_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b2f72edab5e1d4cad553bf72dd0a4a
+      internalID: -1502684820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      allminecraftblocks_199: -923400432
+      allminecraftblocks_194: -1059263621
+      allminecraftblocks_28: 657200699
+      allminecraftblocks_120: -831424425
+      allminecraftblocks_89: 1039237679
+      allminecraftblocks_139: 1921076466
+      allminecraftblocks_215: 1078145255
+      allminecraftblocks_131: 984746629
+      allminecraftblocks_41: -614564225
+      allminecraftblocks_176: -333273539
+      allminecraftblocks_247: -1328757801
+      allminecraftblocks_173: -1149196957
+      allminecraftblocks_73: -1192437367
+      allminecraftblocks_104: -1441215652
+      allminecraftblocks_164: -918527456
+      allminecraftblocks_117: -1267779940
+      allminecraftblocks_200: -134681601
+      allminecraftblocks_186: 775481845
+      allminecraftblocks_238: 1758127358
+      allminecraftblocks_55: 1906056152
+      allminecraftblocks_91: -78916685
+      allminecraftblocks_125: 533110523
+      allminecraftblocks_49: 2101780796
+      allminecraftblocks_159: 1655503886
+      allminecraftblocks_189: 165941079
+      allminecraftblocks_11: 1733274772
+      allminecraftblocks_150: 824558443
+      allminecraftblocks_172: -1398951661
+      allminecraftblocks_21: -1857404603
+      allminecraftblocks_46: -708370609
+      allminecraftblocks_196: -1130023109
+      allminecraftblocks_239: -1181063718
+      allminecraftblocks_135: -1568265181
+      allminecraftblocks_141: -223664757
+      allminecraftblocks_83: 1833933438
+      allminecraftblocks_123: -626902465
+      allminecraftblocks_148: 1917437144
+      allminecraftblocks_95: 1155935324
+      allminecraftblocks_201: 139560624
+      allminecraftblocks_9: 245733324
+      allminecraftblocks_138: -1986745073
+      allminecraftblocks_33: 824774478
+      allminecraftblocks_222: 1955405727
+      allminecraftblocks_25: -2023796777
+      allminecraftblocks_156: 1175356952
+      allminecraftblocks_195: -573648072
+      allminecraftblocks_103: 1542256369
+      allminecraftblocks_161: 1533910567
+      allminecraftblocks_158: 1896907626
+      allminecraftblocks_151: 2118811693
+      allminecraftblocks_92: 1856547720
+      allminecraftblocks_216: -311218983
+      allminecraftblocks_168: -1098465022
+      allminecraftblocks_22: -1179511572
+      allminecraftblocks_62: 773333154
+      allminecraftblocks_102: -1620366073
+      allminecraftblocks_44: -565472591
+      allminecraftblocks_6: -1165512021
+      allminecraftblocks_152: -479606787
+      allminecraftblocks_126: 1280941911
+      allminecraftblocks_206: 1122597612
+      allminecraftblocks_153: -1253239514
+      allminecraftblocks_213: 762018398
+      allminecraftblocks_31: -1997417608
+      allminecraftblocks_224: 593322386
+      allminecraftblocks_19: 334702924
+      allminecraftblocks_121: -863693865
+      allminecraftblocks_116: 1120840892
+      allminecraftblocks_113: -894296512
+      allminecraftblocks_79: 578656528
+      allminecraftblocks_181: -1394009234
+      allminecraftblocks_232: -1453428203
+      allminecraftblocks_253: -1770185974
+      allminecraftblocks_52: 980135632
+      allminecraftblocks_251: 179335364
+      allminecraftblocks_48: 833681661
+      allminecraftblocks_137: -381065679
+      allminecraftblocks_185: -1139205491
+      allminecraftblocks_184: -674407981
+      allminecraftblocks_157: -1515604947
+      allminecraftblocks_50: -717481782
+      allminecraftblocks_26: 1382368311
+      allminecraftblocks_3: 1398437538
+      allminecraftblocks_198: 8100579
+      allminecraftblocks_2: 837448232
+      allminecraftblocks_255: -1502684820
+      allminecraftblocks_191: -281721062
+      allminecraftblocks_27: 1126472077
+      allminecraftblocks_240: 830295445
+      allminecraftblocks_249: 1379986318
+      allminecraftblocks_94: -1864068183
+      allminecraftblocks_250: -670604738
+      allminecraftblocks_70: 1907882469
+      allminecraftblocks_38: 1778915425
+      allminecraftblocks_76: -2061771035
+      allminecraftblocks_227: 2027795751
+      allminecraftblocks_119: 296632155
+      allminecraftblocks_1: 1564735239
+      allminecraftblocks_230: 452990456
+      allminecraftblocks_244: 311807437
+      allminecraftblocks_252: 800454758
+      allminecraftblocks_187: -1901570519
+      allminecraftblocks_88: 1338197397
+      allminecraftblocks_8: -549708331
+      allminecraftblocks_13: -906771436
+      allminecraftblocks_110: 1458072813
+      allminecraftblocks_71: 559441650
+      allminecraftblocks_236: -28400458
+      allminecraftblocks_59: 630784754
+      allminecraftblocks_64: -525598554
+      allminecraftblocks_169: -1280381064
+      allminecraftblocks_143: -1539732309
+      allminecraftblocks_98: -71161001
+      allminecraftblocks_30: 62298246
+      allminecraftblocks_235: -63227650
+      allminecraftblocks_85: 1267832870
+      allminecraftblocks_39: 1350288120
+      allminecraftblocks_66: 1665709788
+      allminecraftblocks_112: -1580999241
+      allminecraftblocks_242: -189489253
+      allminecraftblocks_177: -1419344323
+      allminecraftblocks_124: -423132151
+      allminecraftblocks_147: 1740356932
+      allminecraftblocks_90: -1538362631
+      allminecraftblocks_80: 1838959736
+      allminecraftblocks_109: 1443435194
+      allminecraftblocks_60: 1819577397
+      allminecraftblocks_142: -2044466360
+      allminecraftblocks_221: -1395016946
+      allminecraftblocks_17: 867885482
+      allminecraftblocks_24: -1852294810
+      allminecraftblocks_214: 703702831
+      allminecraftblocks_36: -1912745274
+      allminecraftblocks_129: -1128341456
+      allminecraftblocks_87: -923593761
+      allminecraftblocks_68: 357670317
+      allminecraftblocks_111: 1634760988
+      allminecraftblocks_209: -2040716433
+      allminecraftblocks_78: 1290996383
+      allminecraftblocks_15: 1754154807
+      allminecraftblocks_18: 106632632
+      allminecraftblocks_225: -1454896659
+      allminecraftblocks_167: 1403017466
+      allminecraftblocks_107: 1665810049
+      allminecraftblocks_69: 1638042589
+      allminecraftblocks_96: -823658857
+      allminecraftblocks_29: -747917850
+      allminecraftblocks_114: -94684138
+      allminecraftblocks_136: -1047584952
+      allminecraftblocks_178: -2107873901
+      allminecraftblocks_106: 288840916
+      allminecraftblocks_118: 680631966
+      allminecraftblocks_188: -2121461263
+      allminecraftblocks_210: -1576342872
+      allminecraftblocks_154: 1828654740
+      allminecraftblocks_45: 2096465697
+      allminecraftblocks_229: 857266926
+      allminecraftblocks_105: 785637652
+      allminecraftblocks_241: 120685518
+      allminecraftblocks_47: -1426947694
+      allminecraftblocks_254: -1055481555
+      allminecraftblocks_133: 1513217663
+      allminecraftblocks_43: -605188887
+      allminecraftblocks_245: 827962800
+      allminecraftblocks_99: -526403771
+      allminecraftblocks_237: -1488251218
+      allminecraftblocks_61: -1330288428
+      allminecraftblocks_108: 1320717940
+      allminecraftblocks_140: -410937285
+      allminecraftblocks_20: -758841454
+      allminecraftblocks_207: -377030631
+      allminecraftblocks_57: -371486648
+      allminecraftblocks_81: 1948753633
+      allminecraftblocks_58: 1738974944
+      allminecraftblocks_202: -246984047
+      allminecraftblocks_146: -684954296
+      allminecraftblocks_228: 1970465022
+      allminecraftblocks_86: -1633461268
+      allminecraftblocks_145: 1908818736
+      allminecraftblocks_166: -1668903223
+      allminecraftblocks_179: -627107815
+      allminecraftblocks_175: 127475347
+      allminecraftblocks_182: 227290867
+      allminecraftblocks_132: 599119484
+      allminecraftblocks_149: -60582946
+      allminecraftblocks_100: -438164014
+      allminecraftblocks_130: -632929844
+      allminecraftblocks_128: -1755212424
+      allminecraftblocks_97: 2045790666
+      allminecraftblocks_163: 1653047504
+      allminecraftblocks_42: 2101083871
+      allminecraftblocks_155: -1273893356
+      allminecraftblocks_134: 1200760608
+      allminecraftblocks_160: -1495280457
+      allminecraftblocks_183: 1948018805
+      allminecraftblocks_218: 302766681
+      allminecraftblocks_14: 964647950
+      allminecraftblocks_5: -128920946
+      allminecraftblocks_23: 60083130
+      allminecraftblocks_170: 292928739
+      allminecraftblocks_197: -1408534481
+      allminecraftblocks_40: 2062755033
+      allminecraftblocks_190: -31722666
+      allminecraftblocks_82: -1506975494
+      allminecraftblocks_226: 1992467913
+      allminecraftblocks_204: 1306010206
+      allminecraftblocks_10: -1203558139
+      allminecraftblocks_220: -872343823
+      allminecraftblocks_208: -1846604286
+      allminecraftblocks_162: 242451348
+      allminecraftblocks_180: 35473650
+      allminecraftblocks_53: -878389482
+      allminecraftblocks_174: 1679309429
+      allminecraftblocks_67: -454020583
+      allminecraftblocks_75: -739274464
+      allminecraftblocks_144: 1962543542
+      allminecraftblocks_35: -164536833
+      allminecraftblocks_7: -62170798
+      allminecraftblocks_51: 1650832931
+      allminecraftblocks_12: 258103724
+      allminecraftblocks_54: -1026079407
+      allminecraftblocks_192: 1592903847
+      allminecraftblocks_63: 2007003603
+      allminecraftblocks_37: 1572295406
+      allminecraftblocks_0: 2059178723
+      allminecraftblocks_211: -120209525
+      allminecraftblocks_193: -1150364121
+      allminecraftblocks_205: 717136930
+      allminecraftblocks_72: -1447795229
+      allminecraftblocks_115: -1288329520
+      allminecraftblocks_248: 1885852143
+      allminecraftblocks_122: -1689975181
+      allminecraftblocks_203: -473284485
+      allminecraftblocks_212: 1924930147
+      allminecraftblocks_16: 1699727092
+      allminecraftblocks_101: -842953851
+      allminecraftblocks_56: -732935918
+      allminecraftblocks_93: -1452969778
+      allminecraftblocks_246: 1980147513
+      allminecraftblocks_219: -1703246944
+      allminecraftblocks_4: -1945616972
+      allminecraftblocks_233: 763684408
+      allminecraftblocks_34: 1358780388
+      allminecraftblocks_74: 1710111372
+      allminecraftblocks_84: 1198527696
+      allminecraftblocks_243: 1198421261
+      allminecraftblocks_32: 204153352
+      allminecraftblocks_165: 1550492531
+      allminecraftblocks_171: -929963414
+      allminecraftblocks_217: 1294104118
+      allminecraftblocks_223: 83923294
+      allminecraftblocks_65: 1409489118
+      allminecraftblocks_77: -985677811
+      allminecraftblocks_127: -702323789
+      allminecraftblocks_231: -1299448102
+      allminecraftblocks_234: 1477463649
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

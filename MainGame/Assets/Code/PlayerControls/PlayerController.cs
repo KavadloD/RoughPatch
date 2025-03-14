@@ -288,32 +288,49 @@ public class PlayerController : MonoBehaviour
     IEnumerator Attack()
     {
         _canAttack = false;
+        _anim.SetTrigger("attack");
 
-        
         yield return new WaitForSeconds(_attackBuildUp);
 
-       
-        //Check what is directly in front of player
-        RaycastHit2D[] hits = Physics2D.RaycastAll(transform.position, storedPlayerDirection, 1.5f);
-        //Debug.DrawRay(gameObject.transform.position, storedPlayerDirection.normalized * 2, Color.green, 0.5f);
-        
-        for (int i = 0; i < hits.Length; i++)
-        {
-            RaycastHit2D hit = hits[i];
+        // Define attack area
+        Vector2 attackPosition = (Vector2)transform.position + storedPlayerDirection * 1.2f;
+        Vector2 attackSize = new Vector2(1.5f, 1f); // Adjust size as needed
 
-            if (hit.collider.gameObject.layer == 3)
+        // Perform BoxCast in the attack direction
+        RaycastHit2D[] hits = Physics2D.BoxCastAll(attackPosition, attackSize, 0f, Vector2.zero);
+
+        // Debug: Draw the actual BoxCast hitbox
+        //DrawBoxCast(attackPosition, attackSize);
+
+        foreach (RaycastHit2D hit in hits)
+        {
+            if (hit.collider != null && hit.collider.gameObject.layer == 3) // Enemy layer
             {
                 EnemyController enemy = hit.collider.GetComponent<EnemyController>();
-                enemy.health -= 1;
+                if (enemy != null)
+                {
+                    enemy.health -= 1;
+                }
             }
-
         }
-  
-        yield return new WaitForSeconds(_atackCooldown);
 
+        yield return new WaitForSeconds(_atackCooldown);
         _canAttack = true;
     }
-    
+
+    void DrawBoxCast(Vector2 position, Vector2 size)
+    {
+        Vector2 topLeft = position + new Vector2(-size.x / 2, size.y / 2);
+        Vector2 topRight = position + new Vector2(size.x / 2, size.y / 2);
+        Vector2 bottomLeft = position + new Vector2(-size.x / 2, -size.y / 2);
+        Vector2 bottomRight = position + new Vector2(size.x / 2, -size.y / 2);
+
+        Debug.DrawLine(topLeft, topRight, Color.red, 0.2f);
+        Debug.DrawLine(topRight, bottomRight, Color.red, 0.2f);
+        Debug.DrawLine(bottomRight, bottomLeft, Color.red, 0.2f);
+        Debug.DrawLine(bottomLeft, topLeft, Color.red, 0.2f);
+    }
+
     //Coroutune to dodge. Reused the code for movement and made it one burst with a cooldown.
     IEnumerator ThrowBoomerang()
     {
@@ -350,23 +367,32 @@ public class PlayerController : MonoBehaviour
         boomerang.SetActive(false);
         holdCounter = 0;
     }
-    IEnumerator Dodge()
-    {
-        _canDodge = false;
-        activeVelocity = _rb.velocity;
+IEnumerator Dodge()
+{
+    if (!_canDodge) yield break; // Prevent multiple dodges at once
 
-        _trail.enabled = true;
-        _rb.AddForce(activeVelocity.normalized * _dodgeDistance, ForceMode2D.Impulse);
+    _canDodge = false;
+    isActive = false; // Temporarily disable movement input
 
-        //_col.enabled = false;
-        
-        yield return new WaitForSeconds(_dodgeCooldown);
+    // Determine the dodge direction: use velocity if moving, otherwise use the last stored direction
+    Vector2 dodgeDirection = _rb.velocity.magnitude > 0 ? _rb.velocity.normalized : storedPlayerDirection;
 
-        //_col.enabled = true;
-        
-        _canDodge = true;
-        _trail.enabled = false;
-    }
+    _trail.enabled = true;
+    Physics2D.IgnoreLayerCollision(6, 3, true); // Ignore collision with enemies
+
+    _rb.velocity = dodgeDirection * _dodgeDistance; // Apply a burst of speed
+    yield return new WaitForSeconds(0.2f); // Dodge duration
+
+    _rb.velocity = Vector2.zero; // Stop the dodge movement
+    Physics2D.IgnoreLayerCollision(6, 3, false); // Re-enable collision with enemies
+
+    _trail.enabled = false;
+    isActive = true; // Re-enable movement input
+
+    yield return new WaitForSeconds(_dodgeCooldown); // Wait for cooldown before dodging again
+    _canDodge = true;
+}
+
 
     //Coroutine to activate camera colliders and then deactivate them after pan to next room
     IEnumerator WaitToRemoveColliders(Collider2D obj)

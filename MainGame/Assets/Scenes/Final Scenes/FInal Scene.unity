@@ -451,7 +451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 62590823}
 --- !u!61 &62590823
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3589,7 +3589,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 635259038}
 --- !u!61 &635259038
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3627,6 +3627,18 @@ PrefabInstance:
       propertyPath: _scytheCol
       value: 
       objectReference: {fileID: 320859730, guid: e72f405b1bb8ab545a7e551bc00be70e, type: 3}
+    - target: {fileID: 4452937418548369665, guid: e72f405b1bb8ab545a7e551bc00be70e, type: 3}
+      propertyPath: _dodgeCooldown
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4452937418548369665, guid: e72f405b1bb8ab545a7e551bc00be70e, type: 3}
+      propertyPath: _dodgeDistance
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 4452937418548369665, guid: e72f405b1bb8ab545a7e551bc00be70e, type: 3}
+      propertyPath: invincibleTime
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4452937418548369665, guid: e72f405b1bb8ab545a7e551bc00be70e, type: 3}
       propertyPath: audioController
       value: 
@@ -3946,7 +3958,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 741029286}
 --- !u!61 &741029286
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4496,7 +4508,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 842317589}
 --- !u!61 &842317589
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5134,7 +5146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1008942301}
 --- !u!61 &1008942301
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6035,7 +6047,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1387770517}
 --- !u!61 &1387770517
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -31724,7 +31736,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1493596574}
 --- !u!61 &1493596574
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32191,7 +32203,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1576576288}
 --- !u!61 &1576576288
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32374,7 +32386,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1660783765}
 --- !u!61 &1660783765
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32730,7 +32742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1799201150}
 --- !u!61 &1799201150
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33439,7 +33451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 1945444952}
 --- !u!61 &1945444952
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33512,7 +33524,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 1516859026}
-  _col: {fileID: 0}
+  _col: {fileID: 2087083812}
 --- !u!61 &2087083812
 BoxCollider2D:
   m_ObjectHideFlags: 0

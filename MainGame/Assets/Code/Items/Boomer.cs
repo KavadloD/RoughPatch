@@ -23,6 +23,7 @@ public class Boomer : MonoBehaviour
     {
         if (other.gameObject.layer == 3)
         {
+            if(other.gameObject.GetComponent<EnemyController>() != null)
             //print("Enemy");
             other.transform.GetComponent<EnemyController>().health -= 1;
         }
